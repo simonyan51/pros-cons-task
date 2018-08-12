@@ -1,0 +1,10 @@
+.Header-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #4CAF50;
+    color: #ffffff;
+}
+
+.Header-title {
+    font-size: 1.3rem;
+}

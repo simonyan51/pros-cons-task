@@ -1,0 +1,7 @@
+.DragSourceWrapper-pointer {
+    cursor: pointer;
+}
+
+.DragSourceWrapper-grabbing {
+    cursor: grabbing;
+}

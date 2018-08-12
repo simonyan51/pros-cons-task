@@ -1,0 +1,23 @@
+.App-container {
+  width: 70%;
+  margin: 0 auto;
+  height: 100%;
+}
+
+.App-lists {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  
+  flex-wrap: wrap;
+}
+
+.App-list {
+  height: 100%;
+  flex-grow: 2;
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+}
+.App-list:first-child {
+  border-right: 0;
+}

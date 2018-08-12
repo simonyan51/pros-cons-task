@@ -1,0 +1,16 @@
+.InputList-container {
+    padding: 16px;
+    height: 100%;
+}
+
+.InputList-title {
+    padding: 10px;
+    background-color: #ccc;
+    text-align: center;
+}
+
+.InputList-items {
+    height: 90%;
+    padding: 0px 12px;
+    overflow-y: auto;
+}
